@@ -1,10 +1,10 @@
-# Demoblaze-Automation-Framework
-Automation framework for Demoblaze website using Selenium WebDriver, Java, TestNG, Page Object Model (POM), Maven, and Allure reporting.
+# Demoblaze-Automation-Project
+Automation project for Demoblaze website using Selenium WebDriver, Java, TestNG, Page Object Model (POM), Maven, and Allure reporting.
 
 ## 📚 Overview
 This project is a **Test Automation Framework** built for the [Demoblaze](https://www.demoblaze.com/) e-commerce web application.  
 It follows **Page Object Model (POM)** design pattern and leverages **Selenium WebDriver**, **Java**, **TestNG**, and **Allure Reports** to ensure the functionality, stability, and reliability of the system.  
-The framework is designed to validate core workflows including **user authentication**, **product purchase**, **cart management**, and **checkout process**.
+The framework is designed to validate core workflows, including **user authentication**, **product purchase**, **cart management**, and **checkout process**.
 
 ## 🔧 Technologies Used
 - **Programming Language:** Java  
